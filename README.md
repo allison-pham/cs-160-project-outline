@@ -22,11 +22,12 @@
 
 | Phase (Tentative) | Weeks | Point Percentage |
 | :---- | :---- | :---- |
-| Phase 1: concurrent local queries | Week 2–3 | 8% |
-| Phase 2: parallel global queries | Week 3–5 | 12% \+ 3% |
-| Phase 3: concurrent and batched updates | Week 5-6 | 8% |
-| Phase 4: incremental query evaluation | Week 6-7 | 8% \+ 3% |
-| Phase 5: integration and optimization | Week 7–9 | 12% \+ 3% |
+| Phase 1: Concurrent Local Queries | Week 2–3 | 8% |
+| Phase 2a: Parallel Global Queries | Week 3–4 | 8% |
+| Phase 2b: Push-based Graph Algorithms | Week 4-5 | 8% |
+| Phase 2c: Lock-free Push and Sparse Worklists | Week 5-6 | 8% \+ 3% |
+| Phase 3: Graph Update | Week 6–7 | 8% \+ 3% |
+| Phase 4: Concurrent Update and Query | Week 7–9 | 8% \+ 3% |
 
 **Due Date Rule**: The exact due date depends on your lab section. If you are in a Tuesday lab section, each phase is due the following Tuesday at 11:59 PM. If you are in a Thursday lab section, each phase is due the following Thursday at 11:59 PM.
 
